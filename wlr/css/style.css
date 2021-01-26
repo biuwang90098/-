@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    display: flex;
+    left: 8px;
+    top: 2000px;
+    width: 100%;
+    height: 400px;
+    color: rgba(255, 255, 255, 100);
+    font-size: 14px;
+    text-align: left;
+    font-family: PingFangSC-regular;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+
+.box img {
+   
+    transform: translateY(-90px);
+   margin-left: 70%;
+ 
+
+}
+
+.box p1{
+   
+    text-align: left;
+    color: #666666;
+    line-height: 50px;
+    font-size: 14px;
+    line-height: 1.5;
+    
+}
+.box p2{
+   text-align: left;
+    color:black;
+    line-height: 50px;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+
+.two img{
+    width:70%;
+    text-align: left;
+    margin-right:10%;
+    transform: translateY(-130px);
+}
+
+.two{
+    height:100px;
+}
+
+.three{
+  
+   height: 80px;
+}
+
+.three img{
+ 
+   margin-right: 300px;
+   
+}
+
+.box1{
+    text-align: right;
+    margin-right: 8%;
+    height: 560px;
+}
+
+
+.box1 p1{
+   
+    text-align: right;
+    color: #666666;
+    line-height: 50px;
+    font-size: 14px;
+    line-height: 1.5;
+    
+}
+.box1 p2{
+   text-align: right;
+    color:black;
+    line-height: 50px;
+    font-size: 14px;
+    font-weight: 1000;
+    line-height: 1.5;
+}
+
+.box1 img{
+    width: 60%;
+}
+
+.box2{
+    text-align: left;
+    margin-left: 8%;
+    width: 500px;
+}
+
+
+
+.box2 p1{
+   
+    text-align: left;
+    color: #666666;
+    line-height: 50px;
+    font-size: 14px;
+    line-height: 1.5;
+    
+}
+.box2 p2{
+   text-align: left;
+    color:black;
+    line-height: 50px;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 1.5;
+}
