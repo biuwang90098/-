@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+.part1{
+    display: flex;
+    flex-direction:column;
+    width: 100%;
+}
+.part1 .fitstpicture{
+    width:100%;
+}
+.part1 .across1{
+    display: flex;
+    flex-direction:row;
+}
+.part1 .across1 .text1{
+  margin-left: 2%;
+font-size: 14px;
+text-align: left;
+font-family: PingFangSC-regular;
+
+}
+
+.part1 .across1 .arrow1{
+    margin-right: 10%;
+    width:75px; 
+    right:1px;
+}
+
+.part1 .across2{
+    display: flex;
+    flex-direction:row;
+}
+.part1 .across2 .arrow2{
+    
+    width:175px; 
+    left:5px;
+}
+.part1 .across2 .text2{
+    top:50px;
+text-align: right;
+margin-right: 50%;
+font-size: 14px;
+font-family: PingFangSC-regular;
+}
+.part1 .wheelp .swiper-container .swiper-wrapper .swiper-slide{
+    width:100%; 
+}
